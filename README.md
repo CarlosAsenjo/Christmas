@@ -5,16 +5,16 @@
 La carpeta "Christmas_2019_Carlos_Asenjo" contiene cuatro directorios, un fichero llamado "index.html".
 
  ## -Directorios: 
-	###### -Audio: Contiene un fichero con extension .mp3. Esta pista de audio tiene una duración de 20 segundos.
+		-Audio: Contiene un fichero con extension .mp3. Esta pista de audio tiene una duración de 20 segundos.
 		 Se carga automaticamente, aunque en goole chrome no porque este navegador lo restringe.
 	
-	###### -css: Contiene la hoja de estilos del christmas.
-	 
-	###### -fonts: Contiene los ficheros de las fuentes utilizadas en los estilos.
+	 	-css: Contiene la hoja de estilos del christmas.
+		
+		-fonts: Contiene los ficheros de las fuentes utilizadas en los estilos.
 		"Cartoon Blocks Christmas.ttf"
 		"Christmas Cookies.woff"
 
-	###### -img: Contiene las imágenes utilizadas en el cristmas.
+		-img: Contiene las imágenes utilizadas en el cristmas.
 
 ## Composicion del Christmas:
 
