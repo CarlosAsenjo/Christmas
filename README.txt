@@ -1,11 +1,11 @@
-FELICITACION NAVIDEÑA IES CIUDAD ESCOLAR 2019/2020
+FELICITACION NAVIDEÃ‘A IES CIUDAD ESCOLAR 2019/2020
 
-Practica realizada por Carlos Asenjo Bautista, 2ºDAW, año 2019.
+Practica realizada por Carlos Asenjo Bautista, 2ÂºDAW, aÃ±o 2019.
 
 La carpeta "Christmas_2019_Carlos_Asenjo" contiene cuatro directorios, un fichero llamado "index.html".
 
  -Directorios: 
-	-Audio: Contiene un fichero con extension .mp3. Esta pista de audio tiene una duración de 20 segundos.
+	-Audio: Contiene un fichero con extension .mp3. Esta pista de audio tiene una duraciÃ³n de 20 segundos.
 		 Se carga automaticamente, aunque en goole chrome no porque este navegador lo restringe.
 	
 	-css: Contiene la hoja de estilos del christmas.
@@ -14,14 +14,14 @@ La carpeta "Christmas_2019_Carlos_Asenjo" contiene cuatro directorios, un ficher
 		"Cartoon Blocks Christmas.ttf"
 		"Christmas Cookies.woff"
 
-	-img: Contiene las imágenes utilizadas en el cristmas.
+	-img: Contiene las imÃ¡genes utilizadas en el cristmas.
 
 Composicion del Christmas:
 
 	El Titulo "IES CIUDAD ESCOLAR" aparece en la parte superor de la pagina de color amarillo y con fuente "3D" que
 	es importada desde la carpeta "font". Texto fijo de color amarillo.
 
-	En el centro de la pagina hay una "bola navideña" con un gorro de Santa Claus. La bola contiene una fotografía de
+	En el centro de la pagina hay una "bola navideÃ±a" con un gorro de Santa Claus. La bola contiene una fotografÃ­a de
 	la entrada del instituto realizada con Photoshop y animacion de nieve cayendo.
 	Tanto la bola como el gorro tienen una animacion llamada "temblor" que simula un movimiento de agitacion.
 	Se activa con "hover", puede utilizarse de manera infinita.
@@ -32,10 +32,10 @@ Composicion del Christmas:
 	Puede utilizarse de manera infinita.
 
 	En la parte baja de la pagina se visualizan 6 imagenes fijas. Tres, y tres, recreando un efecto de patron simetrico.
-	En medio de las imagenes navideñas hay un boton con aspecto 3D, recrea la sensacion de de presion al pulsarlo.
+	En medio de las imagenes navideÃ±as hay un boton con aspecto 3D, recrea la sensacion de de presion al pulsarlo.
 	Este boton es un enlace a la WEB del IES CIUDAD ESCOLAR.
 
 	Pegado al inferior de la pagina, el "footer" contiene el nombre del autor, la fecha de realizacion y el curso.
 
-	Los tamaños de las fuentes y posicionamientos e imagenes se expresan en vmax, vmin, y %, de esta manera se consigue que se 
-	se redimensionen al hacer mas grande o mas pequeña la ventana.
+	Los tamaÃ±os de las fuentes y posicionamientos e imagenes se expresan en vmax, vmin, y %, de esta manera se consigue que se 
+	se redimensionen al hacer mas grande o mas pequeÃ±a la ventana.
