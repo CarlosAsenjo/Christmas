@@ -39,3 +39,5 @@ La carpeta "Christmas_2019_Carlos_Asenjo" contiene cuatro directorios, un ficher
 
 	Los tamaños de las fuentes y posicionamientos e imagenes se expresan en vmax, vmin, y %, de esta manera se consigue que se 
 	se redimensionen al hacer mas grande o mas pequeña la ventana.
+	
+	![img](https://github.com/CarlosAsenjo/Christmas/blob/master/img/CapturaChristmas.PNG?raw=true)
